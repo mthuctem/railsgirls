@@ -26,7 +26,7 @@ table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
 .navbar {
   min-height: 38px;
-  background-color: #634548 !important;
+  background-color: #E8A1A7 !important;
   background-image: none !important;
 }
 .navbar a.brand { font-size: 18px; }
