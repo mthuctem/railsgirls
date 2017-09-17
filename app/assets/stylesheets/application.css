@@ -13,13 +13,20 @@
  *= require_tree .
  *= require_self
  */
-body { padding-top: 60px; }
+body { 
+    padding-top: 60px; 
+    font-family: 'Vollkorn', serif;
+}
+
+h1, h2, h3 {
+   font-family: 'Vollkorn', serif;
+}
 footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
 .navbar {
   min-height: 38px;
-  background-color: #f55e55 !important;
+  background-color: #634548 !important;
   background-image: none !important;
 }
 .navbar a.brand { font-size: 18px; }
